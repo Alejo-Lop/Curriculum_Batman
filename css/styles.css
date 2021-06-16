@@ -1,0 +1,55 @@
+
+img { 
+	margin:auto;
+	display:block;
+	margin:auto;
+}
+
+.contenedor_batman{
+	background-color: #E6E6E6;
+	width: 100%;
+	height: 189px;
+}
+
+.gris_oscuro, h2{
+	background-color:#C4C4C4;
+	width: 100%;
+	color:#005677
+}
+
+.tituloPrincipal{
+	font-family: Times New Roman;
+	font-style: normal;
+	color: #005677
+}
+
+h2{
+	margin-right: 10%;
+}
+
+li{
+	margin-left: 5%;
+}
+
+.Negrilla{
+font-weight: bold;
+}
+
+.alineacionCorrido{
+	margin-left: 80px;
+}
+
+footer{
+	background-color: #005677;
+	color: white;
+	font-weight: bold;
+		
+}
+
+.centrado, p{
+	margin: 0 auto;
+  	text-align: center;
+	justify-content: center;
+	display:flex;
+}
+
